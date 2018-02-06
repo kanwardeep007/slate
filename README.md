@@ -114,4 +114,3 @@ Special Thanks
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - thank
 - another one
-- did not want to commit this last change
